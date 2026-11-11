@@ -29,11 +29,12 @@ Hello, I'm Jo. I'm a freelance graphic designer and illustrator that is working 
   
 ✧ My Creative Arsenal ✧
 
-<div align="center">Creative Skills
+<div align="center">
 
 <img src="https://img.shields.io/badge/Graphic_Design-49345f?style=for-the-badge">
 <img src="https://img.shields.io/badge/Illustration-49345f?style=for-the-badge">
 <img src="https://img.shields.io/badge/Visual_Arts-49345f?style=for-the-badge">
+<img src="https://img.shields.io/badge/Basic_Coding-49345f?style=for-the-badge">
 
 </div>
 🦇 Currently Creating...
