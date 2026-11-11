@@ -1,9 +1,7 @@
-## Hi there 👋
-
 <!--Jo's Github Profile-->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:100b16,50:24142e,100:49345f&height=180&section=header&text=YUMI&fontSize=65&fontColor=e8dff5&fontAlignY=38&desc=ART%20%7C%20DESIGN%20%7C%20CODE&descAlignY=60&descSize=15" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:100b16,50:24142e,100:49345f&height=180&section=header&text=Jody&fontSize=65&fontColor=e8dff5&fontAlignY=38&desc=ART%20%7C%20DESIGN%20%7C%20CODE&descAlignY=60&descSize=15" width="100%" />
 
 ☽ Welcome to my Github ☾
 
