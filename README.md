@@ -39,7 +39,8 @@ Hello, I'm Jo. I'm a freelance graphic designer and illustrator that is working 
 🦇 Currently Creating...
 
 <div align="center">
-<img src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif" width="180" alt="Animated gothic aesthetic GIF" />Random projects for fun and to build my portfolio.
+<img src="https://media2.giphy.com/media/v1.Y2lkPTZjMDliOTUyenp6NzZ3ZTVhdW5wNDF1eDFzbXE2cnQ0bDRjeHZ4azJ3NGhvamE1NiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/7NoNw4pMNTvgc/200w.gif" width="180" alt="Animated gothic aesthetic GIF" />
+Random projects for fun and to build my portfolio.
 
 </div>
 
