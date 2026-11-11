@@ -40,12 +40,12 @@ Hello, I'm Jo. I'm a freelance graphic designer and illustrator that is working 
 🦇 Currently Creating...
 
 <div align="center">
-<img src="https://media2.giphy.com/media/v1.Y2lkPTZjMDliOTUyenp6NzZ3ZTVhdW5wNDF1eDFzbXE2cnQ0bDRjeHZ4azJ3NGhvamE1NiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/7NoNw4pMNTvgc/200w.gif" width="180" alt="Animated gothic aesthetic GIF" />
-Random projects for fun and to build my portfolio.
+<img src="https://media2.giphy.com/media/v1.Y2lkPTZjMDliOTUyenp6NzZ3ZTVhdW5wNDF1eDFzbXE2cnQ0bDRjeHZ4azJ3NGhvamE1NiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/7NoNw4pMNTvgc/200w.gif" width="180" alt="Animated gothic aesthetic GIF" /> <br>
+Random projects for fun and to build my portfolio.</br>
 
 </div>
 
 <div align="center">☽ Thanks for visiting ☾
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:49345f,50:24142e,100:100b16&height=100&section=footer" width="100%" /></div>
-</center>
+
