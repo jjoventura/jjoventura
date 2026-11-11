@@ -3,6 +3,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:100b16,50:24142e,100:49345f&height=180&section=header&text=Jody&fontSize=65&fontColor=e8dff5&fontAlignY=38&desc=ART%20%7C%20DESIGN%20%7C%20CODE&descAlignY=60&descSize=15" width="100%" />
 
+<center>
 ☽ Welcome to my Github ☾
 
 Graphic Designer · Illustrator · Studying to be a Developer
@@ -45,3 +46,4 @@ Creative Skills
 <div align="center">☽ Thanks for visiting ☾
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:49345f,50:24142e,100:100b16&height=100&section=footer" width="100%" /></div>
+</center>
