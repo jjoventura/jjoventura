@@ -14,34 +14,34 @@ I make silly little things, depends on my mood
 <img src="https://img.shields.io/badge/Portfolio-24142e?style=for-the-badge&logo=github&logoColor=e8dff5">
 </a>
 
-</div>---
+</div>
+
+<div align="center">
 
 🦇 About Me
 
 Hello, I'm Jo. I'm a freelance graphic designer and illustrator that is working on my developer era.
 
+</div>
+
+
+<div align="center">
+  
 ✧ My Creative Arsenal ✧
 
-<div align="center">Development
+<div align="center">Creative Skills
 
-"HTML5" (https://img.shields.io/badge/HTML5-e34f26?style=for-the-badge&logo=html5&logoColor=white)
-"CSS3" (https://img.shields.io/badge/CSS3-1572b6?style=for-the-badge&logo=css3&logoColor=white)
-"JavaScript" (https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=black)
+<img src="https://img.shields.io/badge/Graphic_Design-49345f?style=for-the-badge">
+<img src="https://img.shields.io/badge/Illustration-49345f?style=for-the-badge">
+<img src="https://img.shields.io/badge/Visual_Arts-49345f?style=for-the-badge">
 
-Creative Skills
-
-"Graphic Design" (https://img.shields.io/badge/Graphic_Design-49345f?style=for-the-badge)
-"Illustration" (https://img.shields.io/badge/Illustration-49345f?style=for-the-badge)
-"Typography" (https://img.shields.io/badge/Typography-49345f?style=for-the-badge)
-"Visual Arts" (https://img.shields.io/badge/Visual_Arts-49345f?style=for-the-badge)
-
-</div>---
-
+</div>
 🦇 Currently Creating...
 
-<div align="center"><img src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif" width="180" alt="Animated gothic aesthetic GIF" />Random projects for fun and to build my portfolio.
+<div align="center">
+<img src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif" width="180" alt="Animated gothic aesthetic GIF" />Random projects for fun and to build my portfolio.
 
-</div>---
+</div>
 
 <div align="center">☽ Thanks for visiting ☾
 
