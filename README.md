@@ -9,8 +9,8 @@ Graphic Designer · Illustrator · Studying to be a Developer
 
 I make silly little things, depends on my mood
 
-""Portfolio" (https://img.shields.io/badge/Portfolio-24142e?style=for-the-badge&logo=github&logoColor=e8dff5)" (https://jjoventura.github.io/jjosworks.github.io/)
-""GitHub" (https://img.shields.io/badge/GitHub-100b16?style=for-the-badge&logo=github&logoColor=e8dff5)" (https://github.com/jjoventura)
+""Portfolio" (https://img.shields.io/badge/Portfolio-24142e?style=for-the-badge&logo=github&logoColor=e8dff5)" (YOUR_PORTFOLIO_URL)
+""GitHub" (https://img.shields.io/badge/GitHub-100b16?style=for-the-badge&logo=github&logoColor=e8dff5)" (https://github.com/YOUR_USERNAME)
 
 </div>---
 
